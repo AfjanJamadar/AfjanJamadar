@@ -6,7 +6,13 @@
 
 ---
 
+Here's your updated **About Me** section with the portfolio link added professionally at the start:
+
+---
+
 ## 🚀 About Me
+
+🌐 [My Portfolio](https://portfolio-mz49.onrender.com/)
 
 I’m a passionate software developer who loves solving real-world problems through full-stack engineering, deep learning, and elegant design. My experience spans from developing scalable web platforms to building smart IoT-based agriculture solutions and visualizing classic computer science algorithms.
 
