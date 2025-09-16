@@ -4,11 +4,7 @@
 💻 Full Stack Developer | 🧠 Machine Learning Enthusiast | ☁️ Cloud Explorer | 🚀 Hackathon Finalist  
 </p>
 
----
 
-Here's your updated **About Me** section with the portfolio link added professionally at the start:
-
----
 
 ## 🚀 About Me
 
